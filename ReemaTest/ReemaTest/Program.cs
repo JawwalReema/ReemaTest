@@ -10,7 +10,7 @@ namespace ReemaTest
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Reema")
+            Console.WriteLine("Reema");
         }
     }
 }
